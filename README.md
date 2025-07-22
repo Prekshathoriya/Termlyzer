@@ -35,7 +35,3 @@ pip install -r requirements.txt
 streamlit run app.py
 ---
 
-<!-- SEO Tags -->
-Legal document analyzer • AI Terms summarizer • PDF summarizer • Streamlit app • Hugging Face Transformers • Contract risk detection • T&C Simplifier • AI Legal Assistant • Python Streamlit NLP Tool • distilbart-cnn legal summarizer
-👤 Built By
-Preksha Thoriya
